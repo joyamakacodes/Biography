@@ -1,0 +1,26 @@
+header{
+    background-color: brown;
+    border: 10px solid rgb(15, 15, 15);
+    text-align: center;
+    color: white;
+}
+body{
+    background-image: url(TY1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: larger;
+    color: white;
+}
+h2{
+    background-color: brown;
+    text-align: center;
+    padding: 20px;
+}
+footer{
+    background-color: brown;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
